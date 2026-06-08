@@ -4,10 +4,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asrivastaava)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasrivastaava@gmail.com)
-[![RxFlow](https://img.shields.io/badge/RxFlow-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://rxflow.tech)
-[![Profile Views](https://komarev.com/ghpvc/?username=aSrivastaava&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aSrivastaava)
+<a href="https://linkedin.com/in/asrivastaava" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:adityasrivastaava@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://rxflow.tech" target="_blank"><img src="https://img.shields.io/badge/RxFlow-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="RxFlow"/></a>
+<a href="https://github.com/aSrivastaava" target="_blank"><img src="https://komarev.com/ghpvc/?username=aSrivastaava&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/></a>
 
 </div>
 
@@ -48,12 +48,12 @@ Full-Stack Engineer based in **New York City** with 3+ years of experience shipp
 
 | Project | Description | Stack |
 |---|---|---|
-| 🟢 **[RxFlow](https://rxflow.tech)** | Multi-tenant SaaS pharmacy platform — event-driven Redis/BullMQ pipeline, ACID-compliant concurrent dispensing, Docker + Nginx | React · Node.js · PostgreSQL · Redis · Docker |
-| 🟣 **[TrueFeed](https://github.com/fullstack-course-pace/truefeed)** | Agentic AI web app using Google Gemini LLM to autonomously assess social media credibility in real time | Next.js · MongoDB · Gemini LLM |
-| 🟩 **[MediBloom](https://github.com/aSrivastaava/MediBloom)** | Cross-platform React Native healthcare app — medicine ordering, appointments, medication tracking. 152 production orders validated | React Native · Node.js · CI/CD |
-| 🟠 **[HouseHold Budget](https://github.com/aSrivastaava/MonthlyBudgetApplication)** | Shared budget manager with role-based access, JWT auth, receipt uploads, and pie-chart analytics | React · MongoDB · Express · Docker |
-| 🔵 **[CredB Nexus](https://github.com/aSrivastaava/credb)** *(In Progress)* | Offline-first distributed file indexing & intelligent retrieval for local networks with optional LLM semantic search | Java · Spring Boot · React · LLM |
-| 🔶 **[Doctorbot](https://github.com/aSrivastaava/Doctorbot)** | AI healthcare chatbot for symptom-based guidance using a Python NLP pipeline | Python · NLP · AI |
+| 🟢 **<a href="https://rxflow.tech" target="_blank">RxFlow</a>** | Multi-tenant SaaS pharmacy platform — event-driven Redis/BullMQ pipeline, ACID-compliant concurrent dispensing, Docker + Nginx | React · Node.js · PostgreSQL · Redis · Docker |
+| 🟣 **<a href="https://github.com/fullstack-course-pace/truefeed" target="_blank">TrueFeed</a>** | Agentic AI web app using Google Gemini LLM to autonomously assess social media credibility in real time | Next.js · MongoDB · Gemini LLM |
+| 🟩 **<a href="https://github.com/aSrivastaava/MediBloom" target="_blank">MediBloom</a>** | Cross-platform React Native healthcare app — medicine ordering, appointments, medication tracking. 152 production orders validated | React Native · Node.js · CI/CD |
+| 🟠 **<a href="https://github.com/aSrivastaava/MonthlyBudgetApplication" target="_blank">HouseHold Budget</a>** | Shared budget manager with role-based access, JWT auth, receipt uploads, and pie-chart analytics | React · MongoDB · Express · Docker |
+| 🔵 **<a href="https://github.com/aSrivastaava/credb" target="_blank">CredB Nexus</a>** *(In Progress)* | Offline-first distributed file indexing & intelligent retrieval for local networks with optional LLM semantic search | Java · Spring Boot · React · LLM |
+| 🔶 **<a href="https://github.com/aSrivastaava/Doctorbot" target="_blank">Doctorbot</a>** | AI healthcare chatbot for symptom-based guidance using a Python NLP pipeline | Python · NLP · AI |
 
 ---
 
@@ -74,14 +74,16 @@ Full-Stack Engineer based in **New York City** with 3+ years of experience shipp
 
 <div align="center">
 
-![Celigo](https://img.shields.io/badge/Celigo_Legendary_L4-0057FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)
-![Celigo](https://img.shields.io/badge/Celigo_Master_L3-0057FF?style=flat-square&logoColor=white)
-![Celigo](https://img.shields.io/badge/Celigo_Seasoned_L2-0057FF?style=flat-square&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Fundamentals-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB_M001-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Pace](https://img.shields.io/badge/INSPIRE_Program-003087?style=flat-square&logoColor=white)
-![NPTEL](https://img.shields.io/badge/C_%26_C%2B%2B-IIT_Bombay_NPTEL-c8102e?style=flat-square&logoColor=white)
+<a href="https://drive.google.com/file/d/1yqOu8F1bnXh3HmmECjCICTkADXpzX4yq/view" target="_blank"><img src="https://img.shields.io/badge/Celigo_Legendary_L4-0057FF?style=flat-square&logoColor=white" alt="Celigo L4"/></a>
+<a href="https://drive.google.com/file/d/1BktPI6t7XPLKKwFSbAB7Kw5usB5nZ-_x/view" target="_blank"><img src="https://img.shields.io/badge/Celigo_Master_L3-0057FF?style=flat-square&logoColor=white" alt="Celigo L3"/></a>
+<a href="https://drive.google.com/file/d/1z-fVPEdqZmYGxdWUMh3z8eNBf_2gFjs3/view" target="_blank"><img src="https://img.shields.io/badge/Celigo_Seasoned_L2-0057FF?style=flat-square&logoColor=white" alt="Celigo L2"/></a>
+<a href="https://drive.google.com/file/d/1S0toExESeTLSy-G3hN8_lAolzMpotjA6/view" target="_blank"><img src="https://img.shields.io/badge/Celigo_Skilled_L1-0057FF?style=flat-square&logoColor=white" alt="Celigo L1"/></a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/5DYQY3R2JCXC" target="_blank"><img src="https://img.shields.io/badge/AWS_Fundamentals-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/PKSRCJKTUVEU" target="_blank"><img src="https://img.shields.io/badge/HTML5_Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="HTML5 Coursera"/></a>
+<a href="https://drive.google.com/file/d/1qmb4Y-ciNOjDxLA0Qu4To-yycyu-JOJr/view" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/></a>
+<a href="https://drive.google.com/file/d/1ivOLwXU9aLD22v_MYgDAvzKabjQlgZT8/view" target="_blank"><img src="https://img.shields.io/badge/HTML_Level_1-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Level 1"/></a>
+<a href="https://drive.google.com/file/d/0B1le66P73WWHRERLS0pnNEpqY2k3YUxsT3cxYlhuTVViUTRn/view?resourcekey=0-4ZXUuaDFdDXGUyARP6vG-g" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B_Programming-IIT_Bombay-c8102e?style=flat-square&logoColor=white" alt="C++"/></a>
+<a href="https://drive.google.com/file/d/0B1le66P73WWHLXdJUlE0TU1uUFBkZDBKOG0yS2VsbUZBZTVJ/view?resourcekey=0-3SFFUROh6flB55GSxgTVOw" target="_blank"><img src="https://img.shields.io/badge/C_Programming-IIT_Bombay-c8102e?style=flat-square&logoColor=white" alt="C"/></a>
 
 </div>
 

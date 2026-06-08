@@ -76,10 +76,11 @@ Full-Stack Engineer based in **New York City** with 3+ years of experience shipp
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats-git-master-asrivastaavas-projects.vercel.app/api?username=aSrivastaava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=aSrivastaava&theme=tokyonight&hide_border=true&border_radius=8)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aSrivastaava&theme=tokyonight)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aSrivastaava&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-master-asrivastaavas-projects.vercel.app/api/top-langs/?username=aSrivastaava&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)
 
 </div>
 

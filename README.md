@@ -101,7 +101,7 @@ Deployed and managed cloud-native services on Azure, earning the Microsoft Azure
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aSrivastaava&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aSrivastaava&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aSrivastaava&theme=tokyonight)
 
 </div>
 

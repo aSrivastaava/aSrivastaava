@@ -20,7 +20,7 @@ jobs:
           github_user_name: aSrivastaava
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=6366f1&color_dots[0]=0d1117&color_dots[1]=0e4429&color_dots[2]=006d32&color_dots[3]=26a641&color_dots[4]=39d353
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

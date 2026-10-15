@@ -2,14 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Aditya+Srivastava+%F0%9F%91%8B;Full-Stack+Engineer+%7C+NYC;MERN+%7C+Java+%7C+Spring+AI+%7C+Cloud;Building+groundedkit+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Aditya+Srivastava+%F0%9F%91%8B;Full-Stack+Engineer+%7C+NYC;MERN+%7C+Java+%7C+Spring+AI+%7C+Cloud;Open-source+starter+kits+for+Java+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://linkedin.com/in/asrivastaava" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:adityasrivastaava@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/groundedkit" target="_blank"><img src="https://img.shields.io/badge/groundedkit-2f5bd3?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://rxflow.tech" target="_blank"><img src="https://img.shields.io/badge/RxFlow-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=aSrivastaava&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
@@ -22,9 +21,8 @@
 
 Full-Stack Engineer based in **New York City** with 3+ years of experience shipping production systems. I build scalable, cloud-native web applications using the MERN stack and Java, with a growing focus on **AI-powered products**, **RAG**, and **LLM integrations**.
 
-- 🧱 Founder of **[groundedkit](https://github.com/groundedkit)**: grounded, production-ready starter kits for Java developers
-- 🚀 Building **[RxFlow](https://rxflow.tech)**, a multi-tenant SaaS pharmacy platform
-- 🎓 **MS Computer Science** · Pace University, NYC · GPA 3.8 / 4.0 · Class of 2026
+- 🧱 Working on **[groundedkit](https://github.com/groundedkit)**, open-source starter kits for Java developers, starting with **[Docbound](https://github.com/groundedkit/docbound)**, a RAG starter for Spring Boot
+- 🎓 **MS Computer Science** · Pace University, NYC · GPA 3.8 / 4.0 · Class of 2026 · Major project: **RxFlow**, a multi-tenant SaaS pharmacy platform
 - 💼 **Open to full-time opportunities**
 - ⚡ Previously at Streetwear Retail · Centium Consulting · DRDO · Microsoft Azure
 - 📍 New York City, NY
@@ -66,7 +64,7 @@ Full-Stack Engineer based in **New York City** with 3+ years of experience shipp
 | Project | Description | Stack |
 |---|---|---|
 | 🧱 **<a href="https://github.com/groundedkit/docbound" target="_blank">Docbound</a>** *(New)* | Production-ready RAG starter for Spring Boot: streaming answers that cite their source passages, "not found" instead of guessing, measured retrieval, runs fully locally with Ollama | Spring Boot · Spring AI · React · pgvector · Docker |
-| 🟢 **<a href="https://rxflow.tech" target="_blank">RxFlow</a>** | Multi-tenant SaaS pharmacy platform: event-driven Redis/BullMQ pipeline, ACID-compliant concurrent dispensing, Docker + Nginx | React · Node.js · PostgreSQL · Redis · Docker |
+| 🟢 **<a href="https://rxflow.tech" target="_blank">RxFlow</a>** *(MS Project, 2026)* | Multi-tenant SaaS pharmacy platform: event-driven Redis/BullMQ pipeline, ACID-compliant concurrent dispensing, Docker + Nginx | React · Node.js · PostgreSQL · Redis · Docker |
 | 🟣 **<a href="https://github.com/fullstack-course-pace/truefeed" target="_blank">TrueFeed</a>** | Agentic AI web app using Google Gemini LLM to autonomously assess social media credibility in real time | Next.js · MongoDB · Gemini LLM |
 | 🔵 **<a href="https://github.com/aSrivastaava/credb" target="_blank">CredB Nexus</a>** *(In Progress)* | Offline-first distributed file indexing & intelligent retrieval for local networks with optional LLM semantic search | Java · Spring Boot · React · LLM |
 | 🟩 **<a href="https://github.com/aSrivastaava/MediBloom" target="_blank">MediBloom</a>** | Cross-platform React Native healthcare app: medicine ordering, appointments, medication tracking. 152 production orders validated | React Native · Node.js · CI/CD |
